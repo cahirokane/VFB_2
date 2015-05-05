@@ -23,7 +23,7 @@ Use Google groups or add new forum.
 
 __Encouraging casual use__
 
-People use FB at meetings all the time during talks to find genes/alleles.  Needs to be fast - problem for large volumes that are coming.
+People use FB at meetings all the time during talks to find genes/alleles.  Needs to be fast - problem for large volumes that are coming. Tablet functionality is also important.
 
 __In context help__
 
